@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\UE4\\Test\\PUBGTest\\Source\\PUBGTest\\PUBGTest.Build.cs",
+		"D:\\UE4\\Test\\PUBGTest\\Plugins\\TestPlugin\\Source\\TestPlugin\\TestPlugin.Build.cs",
+		"D:\\UE4\\Test\\PUBGTest\\Plugins\\TestPlugin\\Source\\TestPluginEditor\\TestPluginEditor.Build.cs",
+		"D:\\UE4\\Test\\PUBGTest\\Source\\PUBGTest.Target.cs",
+		"D:\\UE4\\Test\\PUBGTest\\Source\\PUBGTestEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

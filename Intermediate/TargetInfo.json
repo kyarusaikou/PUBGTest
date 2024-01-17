@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PUBGTest",
+			"Path": "D:\\UE4\\Test\\PUBGTest\\Source\\PUBGTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PUBGTestEditor",
+			"Path": "D:\\UE4\\Test\\PUBGTest\\Source\\PUBGTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,7 @@
+D:\UE4\Test\PUBGTest\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\DebugGame\TestPluginEditor\Definitions.TestPluginEditor.h
+D:/UE4/Test/PUBGTest/Plugins/TestPlugin/Intermediate/Build/Win64/UE4Editor/Inc/TestPluginEditor/MyFactory.gen.cpp
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UE4\Test\PUBGTest\Plugins\TestPlugin\Source\TestPluginEditor/Public/MyFactory.h
+D:\UE4\Test\PUBGTest\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Inc\TestPluginEditor\MyFactory.generated.h
+D:/UE4/Test/PUBGTest/Plugins/TestPlugin/Intermediate/Build/Win64/UE4Editor/Inc/TestPluginEditor/TestPluginEditor.init.gen.cpp

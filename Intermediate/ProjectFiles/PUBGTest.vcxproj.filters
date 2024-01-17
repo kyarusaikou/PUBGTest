@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PUBGTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B32BC68E-7075-4004-86B0-CA4A0BD5BBFB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PUBGTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PUBGTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{84C18467-5872-4CE3-8139-3E0665991C35}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{9BA484E1-23A0-411B-9511-E7C1751C116B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TestPlugin">
+      <UniqueIdentifier>{E3D261E3-5B81-4CE2-9176-05675D267486}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TestPlugin\Source">
+      <UniqueIdentifier>{F087469A-534E-4675-973E-952D716F3159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TestPlugin\Source\TestPlugin">
+      <UniqueIdentifier>{F4DF8394-C2CE-4B0D-A7EC-40D5E6776E14}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TestPlugin\Source\TestPlugin\TestPlugin.Build.cs">
+      <Filter>Plugins\TestPlugin\Source\TestPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\TestPlugin\Source\TestPlugin\Private">
+      <UniqueIdentifier>{B563FC1A-C033-4C02-8061-F0918326A300}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TestPlugin\Source\TestPlugin\Private\IndirectTexture.cpp">
+      <Filter>Plugins\TestPlugin\Source\TestPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TestPlugin\Source\TestPlugin\Private\TestPlugin.cpp">
+      <Filter>Plugins\TestPlugin\Source\TestPlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TestPlugin\Source\TestPlugin\Public">
+      <UniqueIdentifier>{E3200B0E-2B67-4BE0-9FC8-C9D7A05032EC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TestPlugin\Source\TestPlugin\Public\IndirectTexture.h">
+      <Filter>Plugins\TestPlugin\Source\TestPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TestPlugin\Source\TestPlugin\Public\TestPlugin.h">
+      <Filter>Plugins\TestPlugin\Source\TestPlugin\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\TestPlugin\TestPlugin.uplugin">
+      <Filter>Plugins\TestPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\TestPlugin\Resources">
+      <UniqueIdentifier>{E44B7590-6B64-4DA1-A1DA-25113A0C99A2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TestPlugin\Resources\Icon128.png">
+      <Filter>Plugins\TestPlugin\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\TestPlugin\Source\TestPluginEditor">
+      <UniqueIdentifier>{B436272D-3403-48E3-88A0-0BA0A7CFAA86}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TestPlugin\Source\TestPluginEditor\TestPluginEditor.Build.cs">
+      <Filter>Plugins\TestPlugin\Source\TestPluginEditor</Filter>
+    </None>
+    <Filter Include="Plugins\TestPlugin\Source\TestPluginEditor\Private">
+      <UniqueIdentifier>{D9683BE6-8F56-45B8-AE91-BD1D4566AAA8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TestPlugin\Source\TestPluginEditor\Private\FIndirectTextureActions.cpp">
+      <Filter>Plugins\TestPlugin\Source\TestPluginEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TestPlugin\Source\TestPluginEditor\Private\MyFactory.cpp">
+      <Filter>Plugins\TestPlugin\Source\TestPluginEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TestPlugin\Source\TestPluginEditor\Private\TestPluginEditor.cpp">
+      <Filter>Plugins\TestPlugin\Source\TestPluginEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TestPlugin\Source\TestPluginEditor\Public">
+      <UniqueIdentifier>{E8F1E823-DA91-4F6D-891D-5DBE8820B2B0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TestPlugin\Source\TestPluginEditor\Public\FIndirectTextureActions.h">
+      <Filter>Plugins\TestPlugin\Source\TestPluginEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TestPlugin\Source\TestPluginEditor\Public\MyFactory.h">
+      <Filter>Plugins\TestPlugin\Source\TestPluginEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TestPlugin\Source\TestPluginEditor\Public\TestPluginEditor.h">
+      <Filter>Plugins\TestPlugin\Source\TestPluginEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\PUBGTest">
+      <UniqueIdentifier>{C69E0DB2-5880-4BB5-81D9-57FC3EFA3695}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PUBGTest\MatExIndirectTextureSample.cpp">
+      <Filter>Source\PUBGTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PUBGTest\MatExIndirectTextureSample.h">
+      <Filter>Source\PUBGTest</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PUBGTest\PUBGTest.Build.cs">
+      <Filter>Source\PUBGTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PUBGTest\PUBGTest.cpp">
+      <Filter>Source\PUBGTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PUBGTest\PUBGTest.h">
+      <Filter>Source\PUBGTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PUBGTest\PUBGTestGameModeBase.cpp">
+      <Filter>Source\PUBGTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PUBGTest\PUBGTestGameModeBase.h">
+      <Filter>Source\PUBGTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

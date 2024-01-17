@@ -1,0 +1,7 @@
+D:\UE4\Test\PUBGTest\Intermediate\Build\Win64\UE4Editor\DebugGame\PUBGTest\Definitions.PUBGTest.h
+D:\UE4\Test\PUBGTest\Source\PUBGTest\PUBGTestGameModeBase.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\UE4\Test\PUBGTest\Intermediate\Build\Win64\UE4Editor\Inc\PUBGTest\PUBGTestGameModeBase.generated.h

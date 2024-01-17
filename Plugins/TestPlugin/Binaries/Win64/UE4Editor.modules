@@ -1,0 +1,8 @@
+{
+	"BuildId": "13144385",
+	"Modules": 
+	{
+		"TestPlugin": "UE4Editor-TestPlugin.dll",
+		"TestPluginEditor": "UE4Editor-TestPluginEditor.dll"
+	}
+}

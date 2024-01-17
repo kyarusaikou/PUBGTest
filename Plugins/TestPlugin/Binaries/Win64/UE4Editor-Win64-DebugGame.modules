@@ -1,0 +1,8 @@
+{
+	"BuildId": "13144385",
+	"Modules": 
+	{
+		"TestPlugin": "UE4Editor-TestPlugin-Win64-DebugGame.dll",
+		"TestPluginEditor": "UE4Editor-TestPluginEditor-Win64-DebugGame.dll"
+	}
+}

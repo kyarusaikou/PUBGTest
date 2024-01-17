@@ -1,0 +1,2 @@
+D:\UE4\Test\PUBGTest\Intermediate\Build\Win64\UE4Editor\Development\PUBGTest\Definitions.PUBGTest.h
+D:\UE4\Test\PUBGTest\Source\PUBGTest\PUBGTest.h

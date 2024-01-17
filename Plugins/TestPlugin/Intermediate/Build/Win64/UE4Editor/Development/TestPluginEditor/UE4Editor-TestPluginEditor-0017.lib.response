@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestPluginEditor-0017.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4\Test\PUBGTest\Intermediate\Build\Win64\PUBGTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\UE4\Test\PUBGTest\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPluginEditor\Module.TestPluginEditor.cpp.obj"
+"D:\UE4\Test\PUBGTest\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPluginEditor\Module.TestPluginEditor.gen.cpp.obj"
+"D:\UE4\Test\PUBGTest\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPluginEditor\Default.rc2.res"
+/OUT:"D:\UE4\Test\PUBGTest\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPluginEditor\UE4Editor-TestPluginEditor-0017.lib"
+/INCLUDE:IMPLEMENT_MODULE_TestPluginEditor

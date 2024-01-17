@@ -1,0 +1,2 @@
+D:\UE4\Test\PUBGTest\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPluginEditor\Definitions.TestPluginEditor.h
+D:\UE4\Test\PUBGTest\Plugins\TestPlugin\Source\TestPluginEditor\Public\TestPluginEditor.h

@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TestPluginEditor.cpp.obj": [
+			"FIndirectTextureActions.cpp.obj",
+			"MyFactory.cpp.obj",
+			"TestPluginEditor.cpp.obj"
+		],
+		"Module.TestPluginEditor.gen.cpp.obj": [
+			"MyFactory.gen.cpp.obj",
+			"TestPluginEditor.init.gen.cpp.obj"
+		]
+	}
+}
